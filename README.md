@@ -1,2 +1,2 @@
 ## Portfolio Under Construction
-![logo](./Assets/under_construction.jpeg)
+![logo](./assets/under_construction.jpeg)
